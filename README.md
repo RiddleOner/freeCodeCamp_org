@@ -1,2 +1,1 @@
-# freeCodeCamp_org
-Repository for freeCodeCamp.org tutorials
+## Repository for freeCodeCamp.org tutorials
